@@ -11,7 +11,7 @@ Desenvolvedor Junior em buscar de novos desafios , trabalho na aria de automobil
 meado dos anos 2000 compramos nosso primeiro computador , cansado de ficar indo na Lan House , ainda não tão experiente meu irmão caiu em um vírus no Msn pois então tivemos que pagar para formatar o computador , fiquei analisando tudo que o técnico fazia então eu decidir aprender a parti desse momento gostei de resolver as coisar por min mesmo na aria da Computação e me foquei na aria da Programação a onde me apaixonei por cada código feito e me dando resultado positivo .
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/Aclelino/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/aclelino/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:aclelino@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/Aclelino/)
 
